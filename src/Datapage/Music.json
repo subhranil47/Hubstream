@@ -1,0 +1,103 @@
+[
+    {
+        "id": "m1",
+        "url": "https://www.example.com/videos/lofi-chill",
+        "thumbnailUrl": "https://www.example.com/thumbnails/lofi-chill.jpg",
+        "author": "Chill Vibes",
+        "views": "5.2M views",
+        "imageUrl": "https://www.example.com/authors/chill-vibes.jpg",
+        "description": "Lofi Chill Beats — Relax, study, and vibe to smooth instrumental tracks.",
+        "duration": "2:03:45"
+    },
+    {
+        "id": "m2",
+        "url": "https://www.example.com/videos/classical-piano",
+        "thumbnailUrl": "https://www.example.com/thumbnails/classical-piano.jpg",
+        "author": "Piano Masters",
+        "views": "1.4M views",
+        "imageUrl": "https://www.example.com/authors/piano-masters.jpg",
+        "description": "Classical Piano Favorites — Mozart, Beethoven, and Chopin.",
+        "duration": "1:27:33"
+    },
+    {
+        "id": "m3",
+        "url": "https://www.example.com/videos/jazz-night",
+        "thumbnailUrl": "https://www.example.com/thumbnails/jazz-night.jpg",
+        "author": "Smooth Jazz Club",
+        "views": "3.6M views",
+        "imageUrl": "https://www.example.com/authors/smooth-jazz-club.jpg",
+        "description": "Classical Piano Favorites — Mozart, Beethoven, and Chopin.",
+        "duration": "1:27:33"
+    },
+    {
+        "id": "m4",
+        "url": "https://www.example.com/videos/indie-folk",
+        "thumbnailUrl": "https://www.example.com/thumbnails/indie-folk.jpg",
+        "author": "Indie Folk Tunes",
+        "views": "2.1M views",
+        "imageUrl": "https://www.example.com/authors/indie-folk-tunes.jpg",
+        "description": "Indie Folk Collection — A blend of acoustic and folk music.",
+        "duration": "1:15:20"
+    },
+    {
+        "id": "m5",
+        "url": "https://www.example.com/videos/electronic-vibes",
+        "thumbnailUrl": "https://www.example.com/thumbnails/electronic-vibes.jpg",
+        "author": "Electronic Beats",
+        "views": "4.8M views",
+        "imageUrl": "https://www.example.com/authors/electronic-beats.jpg",
+        "description": "Electronic Vibes — A mix of ambient and electronic music.",
+        "duration": "1:50:10"
+    }
+    ,
+    {
+        "id": "m6",
+        "url": "https://www.example.com/videos/ambient-sounds",
+        "thumbnailUrl": "https://www.example.com/thumbnails/ambient-sounds.jpg",
+        "author": "Nature Sounds",
+        "views": "2.9M views",
+        "imageUrl": "https://www.example.com/authors/nature-sounds.jpg",
+        "description": "Ambient Sounds of Nature — Relaxing sounds from forests, oceans, and more.",
+        "duration": "3:00:00"
+    },
+    {
+        "id": "m7",
+        "url": "https://www.example.com/videos/hip-hop-beats",
+        "thumbnailUrl": "https://www.example.com/thumbnails/hip-hop-beats.jpg",
+        "author": "Hip Hop Beats",
+        "views": "6.3M views",
+        "imageUrl": "https://www.example.com/authors/hip-hop-beats.jpg",
+        "description": "Hip Hop Beats for Studying and Relaxing — A collection of smooth hip hop instrumentals.",
+        "duration": "2:45:30"
+    },
+    {
+        "id": "m8",
+        "url": "https://www.example.com/videos/world-music",
+        "thumbnailUrl": "https://www.example.com/thumbnails/world-music.jpg",
+        "author": "Global Sounds",
+        "views": "3.2M views",
+        "imageUrl": "https://www.example.com/authors/global-sounds.jpg",
+        "description": "World Music Journey — Explore music from different cultures around the globe.",
+        "duration": "1:40:15"
+    },
+    {
+        "id": "m9",
+        "url": "https://www.example.com/videos/meditation-music",
+        "thumbnailUrl": "https://www.example.com/thumbnails/meditation-music.jpg",
+        "author": "Zen Music",
+        "views": "1.8M views",
+        "imageUrl": "https://www.example.com/authors/zen-music.jpg",
+        "description": "Meditation Music for Relaxation and Mindfulness — Perfect for yoga and meditation.",
+        "duration": "2:30:00"
+    },
+    {
+        "id": "m10",
+        "url": "https://www.example.com/videos/soundscapes",
+        "thumbnailUrl": "https://www.example.com/thumbnails/soundscapes.jpg",
+        "author": "Soundscapes Studio",
+        "views": "2.5M views",
+        "imageUrl": "https://www.example.com/authors/soundscapes-studio.jpg",
+        "description": "Soundscapes for Relaxation — A collection of serene soundscapes.",
+        "duration": "1:20:45"
+    }
+]

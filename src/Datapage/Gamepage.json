@@ -1,0 +1,121 @@
+[
+    {
+        "id": "1",
+        "title": "Minecraft Survival Guide",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MmB9b5njVbA/maxresdefault.jpg",
+        "duration": "15:42",
+        "uploadTime": "Jan 15, 2020",
+        "views": "18,245,763",
+        "author": "PixelCraft",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "description": "Learn the basics of Minecraft survival mode — from building your first shelter to exploring caves filled with resources and dangers.",
+        "subscriber": "12.4M Subscribers",
+        "isLive": false
+    },
+    {
+        "id": "2",
+        "title": "Fortnite Battle Royale - Victory Gameplay",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3oMDD2lYMLo/maxresdefault.jpg",
+        "duration": "10:05",
+        "uploadTime": "Mar 12, 2021",
+        "views": "25,334,998",
+        "author": "ProGamerX",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+        "description": "Watch this intense Fortnite Battle Royale match where strategy, speed, and building skills lead to the ultimate victory royale!",
+        "subscriber": "8.2M Subscribers",
+        "isLive": false
+    },
+    {
+        "id": "3",
+        "title": "Among Us Funny Moments",
+        "thumbnailUrl": "https://i.ytimg.com/vi/NSJ4cESNQfE/maxresdefault.jpg",
+        "duration": "7:58",
+        "uploadTime": "Nov 8, 2020",
+        "views": "30,987,221",
+        "author": "GameCrew",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+        "description": "Hilarious gameplay from Among Us featuring epic impostor plays, betrayals, and funny reactions from friends.",
+        "subscriber": "5.9M Subscribers",
+        "isLive": false
+    },
+    {
+        "id": "4",
+        "title": "Call of Duty: Warzone - Epic Sniper Montage",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UOjxJQ8LJc4/maxresdefault.jpg",
+        "duration": "12:36",
+        "uploadTime": "Aug 5, 2022",
+        "views": "14,765,432",
+        "author": "SniperKing",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+        "description": "A collection of the best sniper shots from Call of Duty: Warzone with cinematic edits and slow-motion highlights.",
+        "subscriber": "4.7M Subscribers",
+        "isLive": false
+    },
+    {
+        "id": "5",
+        "title": "League of Legends Worlds Finals Highlights",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LoLXpiUjDkM/maxresdefault.jpg",
+        "duration": "20:45",
+        "uploadTime": "Nov 6, 2021",
+        "views": "42,567,890",
+        "author": "LoL Esports",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "description": "The most exciting plays, strategies, and team fights from the League of Legends Worlds Finals — a must-watch for every fan.",
+        "subscriber": "15.6M Subscribers",
+        "isLive": true
+    },
+    [
+        {
+            "id": "6",
+            "title": "The Witcher 3: Wild Hunt Gameplay",
+            "thumbnailUrl": "https://i.ytimg.com/vi/c0i88t0Kacs/maxresdefault.jpg",
+            "duration": "15:34",
+            "uploadTime": "Nov 3, 2020",
+            "views": "12,453,889",
+            "author": "GameSpot",
+            "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "description": "Experience the breathtaking open world of The Witcher 3 with intense combat, storytelling, and exploration.",
+            "subscriber": "5.3M Subscribers",
+            "isLive": false
+        },
+        {
+            "id": "7",
+            "title": "Minecraft Survival Guide",
+            "thumbnailUrl": "https://i.ytimg.com/vi/MmB9b5njVbA/maxresdefault.jpg",
+            "duration": "20:10",
+            "uploadTime": "Jul 15, 2021",
+            "views": "18,945,234",
+            "author": "MumboJumbo",
+            "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "description": "Learn the best tips, tricks, and secrets for surviving and thriving in Minecraft.",
+            "subscriber": "7.8M Subscribers",
+            "isLive": false
+        },
+        {
+            "id": "8",
+            "title": "Call of Duty: Modern Warfare Multiplayer",
+            "thumbnailUrl": "https://i.ytimg.com/vi/bH1lHCirCGI/maxresdefault.jpg",
+            "duration": "12:45",
+            "uploadTime": "Mar 10, 2022",
+            "views": "9,763,221",
+            "author": "IGN",
+            "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description": "Action-packed multiplayer gameplay showcasing the best weapons and tactics in COD: Modern Warfare.",
+            "subscriber": "16.2M Subscribers",
+            "isLive": false
+        },
+        {
+            "id": "9",
+            "title": "Fortnite Battle Royale Highlights",
+            "thumbnailUrl": "https://i.ytimg.com/vi/2gUtfBmw86Y/maxresdefault.jpg",
+            "duration": "10:02",
+            "uploadTime": "Aug 28, 2019",
+            "views": "22,564,009",
+            "author": "Ninja",
+            "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+            "description": "Watch the best Fortnite plays, kills, and fun moments from pro-gamer Ninja.",
+            "subscriber": "24.6M Subscribers",
+            "isLive": true
+        }
+    ]
+]
